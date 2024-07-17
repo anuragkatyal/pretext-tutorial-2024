@@ -32,12 +32,6 @@ percentage/points_of_grade.ptx" />
     <xi:include href="./Department_Contact_Information.ptx" />
 
 
-    <xi:include href="./ch-chapter-title.ptx" />
-
-
-    <!-- Include backmatter -->
-    <xi:include href="./backmatter.ptx" />
-
   </article>
 
 
