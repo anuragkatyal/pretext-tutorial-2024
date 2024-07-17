@@ -8,15 +8,14 @@
     <title>My Great Article</title>
     <subtitle>An example to get you started</subtitle>
 
-    <xi:include xml:id="1" href="./General_Class_and_Course_Information.ptx" />
+    <xi:include href="./General_Class_and_Course_Information.ptx" />
     <xi:include href="./Instructor's_Information.ptx" />
     <xi:include href="./Information_on_REQUIRED_textbooks.ptx" />
-    <xi:include href="./Supplementary_Books/Materials.ptx" />
+    <xi:include href="./Materials.ptx" />
     <xi:include href="./Course_Learning_Outcomes.ptx" />
     <xi:include href="./Class_Information.ptx" />
     <xi:include href="./Use_of_AI_in_Math_Class.ptx" />
-    <xi:include href="./Assignments,_Tests,_Quizzes_and_Final_Exam_Schedule,_with
-percentage/points_of_grade.ptx" />
+    <xi:include href="./Grades.ptx" />
     <xi:include href="./Attendance_Policy.ptx" />
     <xi:include href="./Electronic_Device_Policy.ptx" />
     <xi:include href="./Late_Assignment_Policy.ptx" />
@@ -33,7 +32,5 @@ percentage/points_of_grade.ptx" />
 
 
   </article>
-
-
 
   </pretext>
