@@ -4,19 +4,42 @@
   <!-- we first include a file which contains the docinfo element: -->
   <xi:include href="./docinfo.ptx" />
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
+  <article xml:id="my-great-article">
+    <title>My Great Article</title>
     <subtitle>An example to get you started</subtitle>
 
-    <!-- Include frontmatter -->
-    <xi:include href="./frontmatter.ptx" />
+    <xi:include href="./General_Class_and_Course_Information.ptx" />
+    <xi:include href="./Instructor's_Information.ptx" />
+    <xi:include href="./Information_on_REQUIRED_textbooks.ptx" />
+    <xi:include href="./Supplementary_Books/Materials.ptx" />
+    <xi:include href="./Course_Learning_Outcomes.ptx" />
+    <xi:include href="./Class_Information.ptx" />
+    <xi:include href="./Use_of_AI_in_Math_Class.ptx" />
+    <xi:include href="./Assignments,_Tests,_Quizzes_and_Final_Exam_Schedule,_with
+percentage/points_of_grade.ptx" />
+    <xi:include href="./Attendance_Policy.ptx" />
+    <xi:include href="./Electronic_Device_Policy.ptx" />
+    <xi:include href="./Late_Assignment_Policy.ptx" />
+    <xi:include href="./Make-up_Exam_Policy.ptx" />
+    <xi:include href="./Academic_Dishonesty_Policy.ptx" />
+    <xi:include href="./Academic_Dishonesty_Penalty_for_Violation.ptx" />
+    <xi:include href="./Other_Policy.ptx" />
+    <xi:include href="./Withdrawal_Policy.ptx" />
+    <xi:include href="./Accessibility_Statement.ptx" />
+    <xi:include href="./Hybrid_Class_Information.ptx" />
+    <xi:include href="./EAB_Navigate_:_Student_Success_Platform.ptx" />
+    <xi:include href="./College_Policies.ptx" />
+    <xi:include href="./Department_Contact_Information.ptx" />
 
-    <!-- Include chapters -->
+
     <xi:include href="./ch-chapter-title.ptx" />
 
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
 
-  </book>
-</pretext>
+  </article>
+
+
+
+  </pretext>
