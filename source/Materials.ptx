@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <!-- we first include a file which contains the docinfo element: -->
-  <xi:include href="./docinfo.ptx" />
+
 
   <section><title>Supplementary Books/Materials</title>
 
-    <p><alert>Course Section</alert>: MAC 1105C 3</p>
-    <p><alert>Course Title</alert>: College Algebra Corequisite (AA) Credits/ Clock Hours: 4.00</p>
-    <p><alert>Term/Date</alert>: Fall 2024 08/26/2024 - 12/16/2024</p> 
-    <p><alert>Meeting Times</alert>:Thursday | 11:00AM - 12:50PM | 08/26/24 - 12/16/24 Room: CA 0107 (Boca Raton)</p>
-    <p><alert>Course Description</alert>:</p>
-    <p><alert>Prerequisite</alert>: Math PERT score between 118 - 122</p>
-    <p>This course includes: functions and functional notation; domains and ranges of functions; graphs of functions and relations; operations on functions; inverse functions; linear, quadratic, and rational functions; absolute value and radical functions; exponential and logarithmic properties, functions, and equations; systems of equations and inequalities; applications, and material that directly supports success with College Algebra material.</p>
-    <p>50% On Campus | 50% Online</p>
-    <p><alert>Hybrid courses</alert> are a good choice for you if you enjoy both online and on-campus learning. They blend traditional face-to-face instruction with web-based learning, allowing you to take advantage of the best features of both forms of instruction. Attendance is split 50-50 between the classroom and online.</p>
-    <p>This class is a combination of in-class meetings and online instructional content. Your class will meet during designated times as listed on your class schedule. You must have access to an Internet connected computer.</p>
-    
-    
-    </section></pretext>
+  </section>
