@@ -8,7 +8,7 @@
     <title>My Great Article</title>
     <subtitle>An example to get you started</subtitle>
 
-    <xi:include href="./General_Class_and_Course_Information.ptx" />
+    <xi:include xml:id="1" href="./General_Class_and_Course_Information.ptx" />
     <xi:include href="./Instructor's_Information.ptx" />
     <xi:include href="./Information_on_REQUIRED_textbooks.ptx" />
     <xi:include href="./Supplementary_Books/Materials.ptx" />
